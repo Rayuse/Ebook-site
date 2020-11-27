@@ -1,0 +1,8 @@
+.section-books {
+  background-color: $color-white;
+  padding: 10rem;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(min-content, 1fr));
+  gap: 2rem;
+  justify-content: center;
+}
